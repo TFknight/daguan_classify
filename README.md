@@ -1,6 +1,6 @@
 # 达观比赛代码总结
-=====================
-大二暑假，和实验室的几个小伙伴一起参加2018“达观杯”文本智能处理挑战赛
+====================================================================================
+</br> 大二暑假，和实验室的几个小伙伴一起参加2018“达观杯”文本智能处理挑战赛
 
 # Task description
 Create a model to predict the category of text by long text data
@@ -48,7 +48,8 @@ More details see [达观 2018](http://www.dcjingsai.com/common/cmpt/%E2%80%9C%E8
 More models' details see: [xuxuanbo's keras model ](https://github.com/xuxuanbo/keras_learning)
 
 ## 4.Feature engineering
-* In this competition, we tried to use the method of lexical clustering to extract the features of the article. Its principle is that related words constitute a potential topic.We tried several dimensionality reduction methods，such as lsi,lda,pca,nmf..We put the extracted text features into the **nn** to compensate for its shortcomings. It seems useful  _(:△」∠)_
+* In this competition, we tried to use the method of lexical clustering to extract the features of the article. Its principle is that related words constitute a potential topic.We tried several dimensionality reduction methods，such as lsi,lda,pca,nmf..We put the extracted text features into the **nn** to compensate for its shortcomings. 
+It seems useful  _(:△」∠)_
 * More details see: [Terence's feature engineering](https://github.com/TerenceLiu2/MLpack)
 
 # Acknowledgment
