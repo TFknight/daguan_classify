@@ -49,7 +49,7 @@ More models' details see: [xuxuanbo's keras model ](https://github.com/xuxuanbo/
 
 ## 4.Feature engineering
 * In this competition, we tried to use the method of lexical clustering to extract the features of the article. Its principle is that related words constitute a potential topic.We tried several dimensionality reduction methods，such as lsi,lda,pca,nmf..We put the extracted text features into the **nn** to compensate for its shortcomings. 
-It seems useful  _(:△」∠)_
+</br> It seems useful  _(:△」∠)_
 * More details see: [Terence's feature engineering](https://github.com/TerenceLiu2/MLpack)
 
 # Acknowledgment
